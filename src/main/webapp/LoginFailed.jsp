@@ -14,6 +14,6 @@
     <body>
         <h1>Login Failed for ${username}</h1>
         <p>Username or password did not match!</p>
-        <a href="/FirstProject">Login Page</a>
+        <a href="/">Login Page</a>
     </body>
 </html>

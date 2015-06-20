@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Hello ${username}</h1>
-        <a href="/FirstProject/ViewPosts">View Posts</a>
+        <a href="/ViewPosts">View Posts</a>
         <form action="AddPost" method="post">
             <label>Content:</label>
             <br>

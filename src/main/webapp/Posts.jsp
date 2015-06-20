@@ -14,7 +14,7 @@
     </head>
     <body>
         <h1>Discussion Thread</h1>
-        <a href="/FirstProject/NewPost.jsp">New Post</a>
+        <a href="/NewPost.jsp">New Post</a>
         <div class="comments">
             <c:forEach var="post" items="${posts}">
                 <div class="comment">
